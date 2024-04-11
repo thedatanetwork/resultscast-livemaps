@@ -2,6 +2,7 @@
 For sharing components of the ResultsCast LiveMaps effort
 
 Thank you, Leaflet: https://leafletjs.com/
+
 Thank you, Eric Hynes (not required for leaflet component): https://github.com/ehynds/jquery-ui-multiselect-widget
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.3/leaflet.css" />
